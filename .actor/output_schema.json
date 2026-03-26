@@ -1,0 +1,13 @@
+{
+    "actorOutputSchemaVersion": 1,
+    "title": "Instagram Scraper Output",
+    "description": "Scraped Instagram profile and post data",
+    "properties": {
+        "posts": {
+            "title": "Instagram Posts Dataset",
+            "description": "Link to the dataset containing scraped posts",
+            "type": "string",
+            "template": "{{links.apiDefaultDatasetUrl}}"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "actorSpecification": 1,
+  "name": "instagram-scraper",
+  "version": "1.0",
+  "title": "Instagram Scraper",
+  "description": "Profile data",
+  "categories": [
+    "Social Media"
+  ],
+  "inputSchema": "INPUT.json",
+  "isPublic": true,
+  "isCloud": true,
+  "isAnonymous": false,
+  "output": "./output_schema.json"
+}
